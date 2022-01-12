@@ -1,3 +1,3 @@
 # Uas
 
-![Tampilkan](Uas indo.gif)
+![Tampilan](Uas indo.gif)
