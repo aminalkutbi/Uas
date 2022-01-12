@@ -1,3 +1,3 @@
 # Uas
 
-![Tampilan](Uas indo.gif)
+![Tampilan](Uas_indo.gif)
