@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal pedia</string>
+    <string name="tentang_kami">About Us</string>
+    <string name="Katak">Frog</string>
+    <string name="KupuKupu">Butterfly</string>
+    <string name="Semut">Ant</string>
+    <string name="katak_list_title">Frog race list</string>
+    <string name="kupu_list_title">Butterfly race list</string>
+    <string name="semut_list_title">Ant race list</string>
+    <string name="daftar_ras_judul">List of animal races</string>
+    <string name="pilih_gambar">"select image to open gallery "</string>
+    <string name="batu_nama">stone frog</string>
+    <string name="batu_asal">java</string>
+    <string name="batu_deskripsi">"Is a type of river frog that is commonly found in rivers in Java. This frog can also be found in South Sumatra and Lampung. To this day the status of this frog is vulnerable "</string>
+    <string name="bertanduk_nama">horned</string>
+    <string name="bertanduk_asal">Indonesia</string>
+    <string name="bertanduk_deskripsi">"Some species from this family are only a few millimeters in size. "</string>
+    <string name="mulut_sempit_nama">Birmani</string>
+    <string name="mulut_sempit_asal">Birma/Myanmar</string>
+    <string name="mulut_sempit_deskritpsi">"It is said that originally a cat breed that used to accompany the monks who settled in temples in Burma "</string>
+    <string name="Milbert_tortoiseshell_butterfly_nama">Milbert_tortoiseshell_butterfly_name</string>
+    <string name="Milbert_tortoiseshell_butterfly_asal">"North America "</string>
+    <string name="Milbert_tortoiseshell_butterfly_deskripsi">"The Milbert tortoiseshell butterfly has a wingspan of 4.2 – 6.3 cm, and is native to North America from southern Alaska to Mexico. "</string>
+    <string name="Zebra_Swallowtail_nama">Zebra_Swallowtail</string>
+    <string name="Zebra_Swallowtail_asal">south elbow</string>
+    <string name="Zebra_Swallowtail_deskripsi">a butterfly whose wings are black and white which are distinctive and have long wings back like a tail</string>
+    <string name="Red_Admiral_nama">Red_Admiral_name</string>
+    <string name="Red_Admiral_asal">Indonesia</string>
+    <string name="Red_Admiral_deskripsi">Dog breeds native to the island of Bali</string>
+    <string name="Monarch_nama">Samoyed</string>
+    <string name="Monarch_asal">Keruak</string>
+    <string name="Monarch_deskripsi">Monarch is a poisonous butterfly that has a wingspan of 8.6 – 12.4 cm and is commonly found throughout the world</string>
+    <string name="Tukang_kayu_nama">Carpenter\'s name</string>
+    <string name="Tukang_kayu_asal">"Indonesian "</string>
+    <string name="Tukang_kayu_deskripsi">These ants work as carpenters.</string>
+    <string name="semut_gila_nama">crazzy ant</string>
+    <string name="semut_gila_asal">sukur south</string>
+    <string name="semut_gila_deskripsi">This ant started to go crazy since the departure of his girlfriend</string>
+    <string name="semut_hantu_nama">Ghost ant name</string>
+    <string name="semut_hantu_asal">indonesian</string>
+    <string name="semut_hantu_deskripsi">"This ant turned into a hatu because his spirit was not calm "</string>
+    <string name="Firaun_nama">Pharaoh</string>
+    <string name="Firaun_asal">Egypt</string>
+    <string name="Firaun_deskripsi">These ants come from Egypt.</string>
+</resources>

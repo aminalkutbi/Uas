@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">HewanPedia</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="Katak">Katak</string>
+    <string name="KupuKupu">Kupu Kupu</string>
+    <string name="Semut">Semut</string>
+    <string name="katak_list_title">Daftar Ras Katak</string>
+    <string name="kupu_list_title">Daftar Ras Kupu</string>
+    <string name="semut_list_title">Daftar Ras semut</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    // Data katak
+    <string name="batu_nama">katak batu</string>
+    <string name="batu_asal">jawa</string>
+    <string name="batu_deskripsi">Merupakan jenis katak sungai yang umum ditemukan di sungai-sungai di Jawa. Katak ini juga dapat ditemukan di Sumatera Selatan dan Lampung. Hingga hari ini status katak ini adalah rawan</string>
+    <string name="bertanduk_nama">bertanduk</string>
+    <string name="bertanduk_asal">Indonesia</string>
+    <string name="bertanduk_deskripsi">Beberapa jenis dari famili ini memiliki ukuran hanya beberapa milimeter saja.</string>
+    <string name="mulut_sempit_nama">Birmani</string>
+    <string name="mulut_sempit_asal">Birma/Myanmar</string>
+    <string name="mulut_sempit_deskritpsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma</string>
+    // Data Kupu
+    <string name="Milbert_tortoiseshell_butterfly_nama">Milbert_tortoiseshell_butterfly_nama</string>
+    <string name="Milbert_tortoiseshell_butterfly_asal">Amerika utara</string>
+    <string name="Milbert_tortoiseshell_butterfly_deskripsi">Milbert tortoiseshell butterfly memiliki lebar sayap 4,2 – 6,3 cm, dan berasal dari Amerika Utara dari Alaska selatan hingga ke Meksiko</string>
+    <string name="Zebra_Swallowtail_nama">Zebra_Swallowtail</string>
+    <string name="Zebra_Swallowtail_asal">sikur selatan</string>
+    <string name="Zebra_Swallowtail_deskripsi">kupu-kupu yang sayapnya berwarna hitam dan putih yang khas dan memiliki sayap panjang kebelakang layaknya ekor</string>
+    <string name="Red_Admiral_nama">Red_Admiral_nama</string>
+    <string name="Red_Admiral_asal">Indonesia</string>
+    <string name="Red_Admiral_deskripsi">Ras anjing asli pulau Bali </string>
+    <string name="Monarch_nama">Samoyed</string>
+    <string name="Monarch_asal">Keruak</string>
+    <string name="Monarch_deskripsi">Monarch adalah kupu-kupu beracun yang memiliki lebar sayap 8,6 – 12,4 cm dan umum ditemukan di seluruh dunia</string>
+    // Semut
+    <string name="Tukang_kayu_nama">Tukang_kayu_nama</string>
+    <string name="Tukang_kayu_asal">indonesia</string>
+    <string name="Tukang_kayu_deskripsi">semut ini bekerja sebagai tukang kayu</string>
+    <string name="semut_gila_nama">semut_gila</string>
+    <string name="semut_gila_asal">sikur selatan</string>
+    <string name="semut_gila_deskripsi">semut ini mulai gila semenjak ditinggal pacar</string>
+    <string name="semut_hantu_nama">semut_hantu_nama</string>
+    <string name="semut_hantu_asal">Indonesia</string>
+    <string name="semut_hantu_deskripsi">semut ini berubah menjadi hatu gara gara arwahnya tidak tenang </string>
+    <string name="Firaun_nama">Firaun</string>
+    <string name="Firaun_asal">Mesir</string>
+    <string name="Firaun_deskripsi">semut ini berasal dari mesir</string>
+
+
+</resources>
